@@ -1,0 +1,1 @@
+{"FileVersion":3,"Version":1,"VersionName":"0.1.0","FriendlyName":"Zekumo SDK","Description":"Official Zekumo SDK for Unreal Engine 5","Category":"Online","Modules":[{"Name":"ZekumoSDK","Type":"Runtime","LoadingPhase":"Default"}]}
